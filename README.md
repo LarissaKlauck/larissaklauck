@@ -4,10 +4,10 @@
 - 📚 Estudante do 1° semestre de Análise e Desenvolvimento de Sistemas
 
 <div style="display=flex">
-  <a href="https://github.com/larissaklauck">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=larissaklauck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaklauck&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!--  theme:dark, radical  -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=larissaklauck&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaklauck&theme=highcontrast"/>
+    
 <br>
   <h3>Skills</h3>
 <div style="display=flex">
